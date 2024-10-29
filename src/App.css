@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Dancing Script', cursive;
+    font-weight:bolder ;
+  }
+  
+  
